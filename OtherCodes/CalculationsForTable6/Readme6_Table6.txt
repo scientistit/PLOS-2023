@@ -1,0 +1,2 @@
+You can calculate tables of features for Table 6 applying different values of variable q - 0, 0.2, 0.4 or 0.6. The exemplary calculated tables of features are situated in 'KmeansFeatureTables' folder.
+These tables of features can be used as input data to code in 3_FeatureSelectionAndClassRecognition folder to calculate the accuracy.
